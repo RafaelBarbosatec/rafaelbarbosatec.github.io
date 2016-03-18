@@ -2481,6 +2481,7 @@
 
 		#header strong, #header b {
 			color: #ffffff;
+    			font-weight: bold;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2492,11 +2493,15 @@
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+			color: #fff;
+			background: rgba(0, 0, 0, 0.2);
+                        padding: 15px;
 		}
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
+			border: 5px solid rgba(0, 0, 0, 0.21);
 		}
 
 /* Footer */
