@@ -3,13 +3,14 @@ file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/.pac
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/BaseHome.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/Dimens.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/CardContent.dart
-file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/CardContentTab.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/CardContentTitle.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/CardGraph/CardGraph.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/CardGraph/SimpleTimeSeriesChart.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/CardInfoDashboard.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/ResponsibleRow.dart
+file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/cardContentTab/CardContentTab.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/cardContentTab/ItemTab.dart
+file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/cardContentTab/ItemTabWidget.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/sidebar/ButtonMenu.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/sidebar/ItemMenu.dart
 file:///home/rafael/Documentos/ProjectsFlutter/WEB/CanaryAdmin/canary_admin/lib/components/sidebar/MenuHome.dart
