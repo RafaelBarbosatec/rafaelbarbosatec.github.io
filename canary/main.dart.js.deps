@@ -195,8 +195,11 @@ file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/bottom_tab_bar.da
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/button.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/colors.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/constants.dart
+file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/context_menu.dart
+file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/context_menu_action.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/date_picker.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/dialog.dart
+file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/icon_theme_data.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/icons.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/interface_level.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/localizations.dart
@@ -208,6 +211,7 @@ file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/route.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/scrollbar.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/segmented_control.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/slider.dart
+file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/sliding_segmented_control.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/switch.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/tab_scaffold.dart
 file:///home/rafael/flutter/packages/flutter/lib/src/cupertino/tab_view.dart
