@@ -41,42 +41,52 @@
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/steel.png",
-			"name": "steel"
+			"name": "steel",
+            "color": "#528a9e"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/fire.png",
-			"name": "fire"
+			"name": "fire",
+            "color": "#fb9d50"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/water.png",
-			"name": "water"
+			"name": "water",
+            "color": "#4e95de"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/grass.png",
-			"name": "grass"
+			"name": "grass",
+            "color": "#5ebc56"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/electric.png",
-			"name": "electric"
+			"name": "electric",
+            "color": "#efd744"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/psychic.png",
-			"name": "psychic"
+			"name": "psychic",
+            "color": "#f77475"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/ice.png",
-			"name": "ice"
+			"name": "ice",
+            "color": "#73cec0"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/dragon.png",
-			"name": "dragon"
+			"name": "dragon",
+            "color": "#0b6cc8"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/dark.png",
-			"name": "dark"
+			"name": "dark",
+            "color": "#5c5b65"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/fairy.png",
-			"name": "fairy"
+			"name": "fairy",
+            "color": "#ed8fe5"
 		}
 	]
