@@ -1,35 +1,43 @@
 [
 		{
-			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/noemal.png",
-			"name": "normal"
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/normal.png",
+			"name": "normal",
+            "color": "#9499a3"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/fight.png",
-			"name": "fighting"
+			"name": "fighting",
+            "color": "#d14261"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/flying.png",
-			"name": "flying"
+			"name": "flying",
+            "color": "#93aadd"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/poison.png",
-			"name": "poison"
+			"name": "poison",
+            "color": "#ab63c8"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/ground.png",
-			"name": "ground"
+			"name": "ground",
+            "color": "#db7848"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/rock.png",
-			"name": "rock"
+			"name": "rock",
+            "color": "#c8b98a"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/bug.png",
-			"name": "bug"
+			"name": "bug",
+            "color": "#96be2d"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/ghost.png",
-			"name": "ghost"
+			"name": "ghost",
+            "color": "#566bb1"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/steel.png",
