@@ -1,74 +1,74 @@
 [
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/normal.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/noemal.png",
 			"name": "normal"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/fighting.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/fight.png",
 			"name": "fighting"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/flying.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/flying.png",
 			"name": "flying"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/poison.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/poison.png",
 			"name": "poison"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/ground.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/ground.png",
 			"name": "ground"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/rock.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/rock.png",
 			"name": "rock"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/bug.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/bug.png",
 			"name": "bug"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/ghost.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/ghost.png",
 			"name": "ghost"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/steel.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/steel.png",
 			"name": "steel"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/fire.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/fire.png",
 			"name": "fire"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/water.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/water.png",
 			"name": "water"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/grass.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/grass.png",
 			"name": "grass"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/electric.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/electric.png",
 			"name": "electric"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/psychic.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/psychic.png",
 			"name": "psychic"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/ice.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/ice.png",
 			"name": "ice"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/dragon.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/dragon.png",
 			"name": "dragon"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/dark.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/dark.png",
 			"name": "dark"
 		},
 		{
-			"thumbnailImage": "https://vortigo.blob.core.windows.net/files/pokemon/assets/fairy.png",
+			"image": "https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/api/pokemon/images/types/fairy.png",
 			"name": "fairy"
 		}
 	]
