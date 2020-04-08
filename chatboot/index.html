@@ -1,35 +1,48 @@
 <html>
+  <head>
+		<title>Rafael Developer</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" href="images/favicon.ico" type=”image/x-icon”/>
+		<meta property="og:image" content="http://rafaelbarbosatec.github.io/images/avatar.png">
+	        <meta property="og:image:type" content="image/png">
+	        <meta property="og:image:width" content="300"> 
+	        <meta property="og:image:height" content="300">
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
     <body>
-        <script>
-            var div = document.createElement('div');
-            div.className = 'fb-customerchat';
-            div.setAttribute('page_id', '400618426960968');
-            div.setAttribute('ref', '');
-            document.body.appendChild(div);
-            window.fbMessengerPlugins = window.fbMessengerPlugins || {
-              init: function () {
-                FB.init({
-                  appId            : '1678638095724206',
-                  autoLogAppEvents : true,
-                  xfbml            : true,
-                  version          : 'v3.3'
-                });
-              }, callable: []
-            };
-            window.fbAsyncInit = window.fbAsyncInit || function () {
-              window.fbMessengerPlugins.callable.forEach(function (item) { item(); });
-              window.fbMessengerPlugins.init();
-            };
-            setTimeout(function () {
-              (function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) { return; }
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "//connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
-                fjs.parentNode.insertBefore(js, fjs);
-              }(document, 'script', 'facebook-jssdk'));
-            }, 0);
-          </script>
+      <script>
+        var div = document.createElement('div');
+        div.className = 'fb-customerchat';
+        div.setAttribute('page_id', '400618426960968');
+        div.setAttribute('ref', '');
+        document.body.appendChild(div);
+        window.fbMessengerPlugins = window.fbMessengerPlugins || {
+          init: function () {
+            FB.init({
+              appId            : '1678638095724206',
+              autoLogAppEvents : true,
+              xfbml            : true,
+              version          : 'v3.3'
+            });
+          }, callable: []
+        };
+        window.fbAsyncInit = window.fbAsyncInit || function () {
+          window.fbMessengerPlugins.callable.forEach(function (item) { item(); });
+          window.fbMessengerPlugins.init();
+        };
+        setTimeout(function () {
+          (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+        }, 0);
+      </script>
     </body>
 </html>
