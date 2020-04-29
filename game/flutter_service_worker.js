@@ -40,7 +40,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "index.html": "57287c4e955d6b7894b1c52c0cd8af31",
 "/": "57287c4e955d6b7894b1c52c0cd8af31",
-"main.dart.js": "ef53135788315d04c361708a10cbdee6"
+"main.dart.js": "2b559ffca8e827fd7befe24be2c90632"
 };
 
 self.addEventListener('activate', function (event) {
