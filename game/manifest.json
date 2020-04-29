@@ -1,6 +1,6 @@
 {
-    "name": "example",
-    "short_name": "example",
+    "name": "mountain_fight",
+    "short_name": "mountain_fight",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
