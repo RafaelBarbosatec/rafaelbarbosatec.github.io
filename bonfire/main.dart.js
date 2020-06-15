@@ -23835,7 +23835,7 @@ T.Hh.prototype={
 $1:function(a){this.a.I3()}}
 V.uh.prototype={
 R:function(a7){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1="joystick_background.png",a2="itens/table.png",a3="itens/flag_red.png",a4=F.cT(a7,!1).a,a5=a4.b,a6=a4.a
-$.aW=(a5<a6?a5:a6)/12
+$.aW=(a5>a6?a5:a6)/14
 a5=R.VN(!1,100,O.aL(a1,a0,a0,0,0),O.aL("joystick_knob.png",a0,a0,0,0))
 a6=H.a([Q.I1(0,C.f8,!1,new V.aN(0,0,50,50),80,O.aL("joystick_atack.png",a0,a0,0,0),a0),Q.I1(1,C.f8,!0,new V.aN(0,0,160,50),50,O.aL("joystick_atack_range.png",a0,a0,0,0),O.aL(a1,a0,a0,0,0))],u.io)
 t=$.aW
@@ -23885,7 +23885,7 @@ e.a=this
 return new F.mo(new A.nu(a6,a5,a0),t,new M.nz(s,!0,a0),r,q,a,new K.mk(f,a0),!0,e,P.aF(C.J.aJ(127.5),0,0,0),a0)}}
 N.ui.prototype={
 R:function(a){var t,s,r,q,p,o,n,m=null,l="joystick_background.png",k="tiled/mapa1.json",j="assets/images/tiled/mapa1.json",i=F.cT(a,!1).a,h=i.b,g=i.a
-$.aW=(h<g?h:g)/12
+$.aW=(h>g?h:g)/14
 h=R.VN(!1,100,O.aL(l,m,m,0,0),O.aL("joystick_knob.png",m,m,0,0))
 g=H.a([Q.I1(0,C.f8,!1,new V.aN(0,0,50,50),80,O.aL("joystick_atack.png",m,m,0,0),m),Q.I1(1,C.f8,!0,new V.aN(0,0,160,50),50,O.aL("joystick_atack_range.png",m,m,0,0),O.aL(l,m,m,0,0))],u.io)
 t=$.aW
