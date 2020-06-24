@@ -40961,7 +40961,7 @@ m.y.push(s)}},
 $S:2}
 D.U2.prototype={
 $2:function(a1,a2){var t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="tile/map.json",b="assets/images/tile/map.json",a=a2.d,a0=a2.b
-$.cV=Math.min(H.B(a),H.B(a0))/12
+$.cV=Math.max(H.B(a),H.B(a0))/20
 a0=O.ip("joystick_knob.png",d,d,0,0)
 a=O.ip("joystick_background.png",d,d,0,0)
 t=new R.KK(100,a,a0)
