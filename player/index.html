@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"></script>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>
+</head>
+
+<body>
+  <div id="player"></div>
+  <script>
+var playerobj = new Clappr.Player(
+                    {
+                        source: "http://ppns.io:80/movie/A0Ar4UZSBkWtrV/8801793850/38443.mp4",
+                        parentId: "#player",
+                        autoPlay: true,
+                        height: '200',
+                        width: '350',
+                        poster: "http://z4.vc/cyv",
+                    }
+                );
+  </script>
+</body>
+    </html>
