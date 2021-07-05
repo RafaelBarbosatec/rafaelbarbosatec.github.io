@@ -4,17 +4,17 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b63ae99890573ef15a70533299dc7b77",
-"index.html": "372cd496f60612c1d22ccd2e31cff537",
-"/": "372cd496f60612c1d22ccd2e31cff537",
-"main.dart.js": "dd4dad1a8b4f706a792e4ab37569b68a",
+"index.html": "5c9e5a7beefec11e8fe5b0c34d7ee55a",
+"/": "5c9e5a7beefec11e8fe5b0c34d7ee55a",
+"main.dart.js": "85ff7f92844fc1ec798cf672053a7008",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "c889aac3fdcce9e7271024c37f6c6dc2",
 "assets/AssetManifest.json": "cae444811b4dc0e914496cd7337fe92b",
-"assets/NOTICES": "f79e952590f55f09c62263f64d667c27",
+"assets/NOTICES": "8d0ea61175c08bdb107d634d08a2210f",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/images/smoke_explosin.png": "555a8a42b72e662af232dc2092103c2a",
 "assets/assets/images/joystick_background.png": "2eef7b32e484d81f07eeb405b39c83a4",
 "assets/assets/images/heroes/hero10.png": "bf949848b0a13de3a8bffe24611db304",
@@ -30,8 +30,8 @@ const RESOURCES = {
 "assets/assets/images/heroes/hero1.png": "08730d084495a7ccc2c7c283c3822d25",
 "assets/assets/images/joystick_atack.png": "a525ebd6bd0a9014c513884b7811f019",
 "assets/assets/images/tile/tilesetAlistair.png": "9c5398c3e08ba859e5072bb3adb6515c",
-"assets/assets/images/tile/tilesetAlistair.json": "cf70cee31e64e9b1be4d58ba4bae30d3",
-"assets/assets/images/tile/map.json": "8235322669c77cfe0b958debf368b39e",
+"assets/assets/images/tile/tilesetAlistair.json": "609b0abbde99b57337b3910a43aeb8e9",
+"assets/assets/images/tile/map.json": "e574bdd9f61f457673b2b85a8a91da7e",
 "assets/assets/images/tile/spritesheet.png": "de7eda3f898211a7c2b49309a9799886",
 "assets/assets/images/joystick_atack_selected.png": "5196050c562862a670e7757392710c4d",
 "assets/assets/images/emote.png": "b2b88a8c9b5508e34c89c44efc2fc51d",
@@ -70,7 +70,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
