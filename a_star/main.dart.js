@@ -32719,19 +32719,35 @@ L.KX.prototype={
 $1(a){J.iz(a,new L.KW(this.a,this.b))},
 $S:116}
 L.KW.prototype={
-$1(a){var s,r,q,p=a.a,o=C.c.bS(p.a),n=C.c.bS(p.b)
-p=n>0
-if(p){s=this.b[o][n-1]
+$1(a){var s,r,q,p,o,n,m,l,k,j=a.a,i=C.c.bS(j.a),h=C.c.bS(j.b)
+j=h>0
+if(j){s=this.b[i][h-1]
 if(!s.d)a.c.push(s)}r=this.b
-if(n<C.b.gE(r).length-1){s=r[o][n+1]
-if(!s.d)a.c.push(s)}q=o>0
-if(q){s=r[o-1][n]
-if(!s.d)a.c.push(s)}if(o<r.length-1){s=r[o+1][n]
-if(!s.d)a.c.push(s)}if(p&&q){s=r[o-1][n-1]
-if(!s.d)a.c.push(s)}if(p&&o<r.length-1){s=r[o+1][n-1]
-if(!s.d)a.c.push(s)}if(q&&n<C.b.gE(r).length-1){s=r[o-1][n+1]
-if(!s.d)a.c.push(s)}if(o<r.length-1&&n<C.b.gE(r).length-1){s=r[o+1][n+1]
-if(!s.d)a.c.push(s)}},
+if(h<C.b.gE(r).length-1){s=r[i][h+1]
+if(!s.d)a.c.push(s)}q=i>0
+if(q){s=r[i-1][h]
+if(!s.d)a.c.push(s)}if(i<r.length-1){s=r[i+1][h]
+if(!s.d)a.c.push(s)}if(j&&q){p=h-1
+o=r[i][p]
+n=r[i-1]
+m=n[h]
+s=n[p]
+if(!s.d&&!m.d&&!o.d)a.c.push(s)}if(j&&i<r.length-1){j=h-1
+o=r[i][j]
+p=r[i+1]
+l=p[h]
+s=p[j]
+if(!s.d&&!o.d&&!l.d)a.c.push(s)}if(q&&h<C.b.gE(r).length-1){j=h+1
+k=r[i][j]
+q=r[i-1]
+m=q[h]
+s=q[j]
+if(!s.d&&!k.d&&!m.d)a.c.push(s)}if(i<r.length-1&&h<C.b.gE(r).length-1){j=h+1
+k=r[i][j]
+r=r[i+1]
+l=r[h]
+s=r[j]
+if(!s.d&&!k.d&&!l.d)a.c.push(s)}},
 $S:78}
 L.L0.prototype={
 $1(a){var s,r=this.c
