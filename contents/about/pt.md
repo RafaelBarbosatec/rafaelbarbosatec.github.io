@@ -46,3 +46,4 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 | Swift    | Intermediario    |
 | PHP    | Intermediario    |
 | TypeScript    | Intermediario    |
+| C    | Intermediario    |
