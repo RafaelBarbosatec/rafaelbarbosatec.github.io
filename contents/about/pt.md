@@ -21,6 +21,10 @@ desejo de proporcionar uma melhor experiência digital aos meus parceiros, busco
 de melhor e mais inovador no desenvolvimento mobile da atualidade, numa constante busca pela perfeição
 profissional.
 
+## Atuação profissional
+
+Desenvolvedor mobile sênior (Flutter/Android/IOS)
+
 ## Idiomas
 
 | Nome    | Nivel |
