@@ -1,6 +1,6 @@
 # Um pouco sobre mim
 
-Me chamo Rafael, nasci em Salvador/BA e sou desenvolvedor voltado para o segmento mobile. Iniciei os estudos e prática na área de programação como um hobby
+Me chamo Rafael, sou brasileiro, nasci em Salvador/BA e sou desenvolvedor voltado para o segmento mobile. Iniciei os estudos e prática na área de programação como um hobby
 durante minha graduação em Engenharia da Computação na Devry-Área1. Antes de me graduar como engenheiro,
 fui aprovado na Universidade Federal da Bahia para cursar Sistemas de Informação e assim imergir de vez
 no mundo do Software. Atualmente trabalho como Mobile Developer Senior(Android/IOS/Flutter) em São Paulo
