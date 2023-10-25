@@ -23,6 +23,20 @@ profissional.
 
 ## Idiomas
 
-***Inglês*** Intemediário
-***Português*** Nativo
-***Espanhol*** Básico
+| Nome    | Nivel |
+| -------- | ------- |
+| 🇧🇷 Português | Nativo     |
+| 🇺🇸 Inglês  | Intemediário    |
+| 🇪🇸 Espanhol    | Básico    |
+
+
+## Linguagens de programação
+
+| Nome    | Nivel |
+| -------- | ------- |
+| Java | Avançado     |
+| Kotlin  | Avançado    |
+| Dart    | Avançado    |
+| Swift    | Intermediario    |
+| PHP    | Intermediario    |
+| TypeScript    | Intermediario    |
