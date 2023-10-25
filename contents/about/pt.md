@@ -27,6 +27,14 @@ profissional.
 
 Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
+## Formação acadêmica
+
+| Curso    | Instituição | Status |
+| -------- | ------- | ------- |
+| Engenharia da computação | Devry Area1     | Trancado no 7 semestre |
+| Sistemas de informação | UFBA     | Trancado no 5 semestre |
+| Analise e desenvolvimento de sistemas | Estácio     | Concluido |
+
 ## Idiomas
 
 | Nome    | Nivel |
