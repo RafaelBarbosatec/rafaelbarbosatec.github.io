@@ -28,7 +28,7 @@ para análises mensais de investimentos e recomendações direto no app!
 
 ## Abastece Aí
 
-![](https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/blob/master/images/fulls/abasteceai/img.png)
+![](https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/images/fulls/abasteceai/img.png)
 
 
 O Abastece Aí é a nova forma de abastecer seu carro nos Postos Ipiranga (1). Você pode abastecer
@@ -36,7 +36,7 @@ com desconto (2) ou ter um acúmulo diferenciado no programa Km de Vantagens.
 
 ## Suplicy Cafés
 
-![](https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/blob/master/images/fulls/suplicy/img.png)
+![](https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/images/fulls/suplicy/img.png)
 
 Consuma seu Café Especial de uma forma ainda mais surpreendente!.
 
