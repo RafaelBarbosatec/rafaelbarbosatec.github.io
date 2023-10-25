@@ -1,7 +1,6 @@
 # Sobre
 
-Me chamo Rafael, nasci em Salvador/BA e sou desenvolvedor JAVA/Kotlin voltado para o segmento mobile,
-especificamente sistema Android. Iniciei os estudos e prática na área de programação como um hobby
+Me chamo Rafael, nasci em Salvador/BA e sou desenvolvedor voltado para o segmento mobile. Iniciei os estudos e prática na área de programação como um hobby
 durante minha graduação em Engenharia da Computação na Devry-Área1. Antes de me graduar como engenheiro,
 fui aprovado na Universidade Federal da Bahia para cursar Sistemas de Informação e assim imergir de vez
 no mundo do Software. Atualmente trabalho como Mobile Developer Senior(Android/IOS/Flutter) em São Paulo
@@ -21,3 +20,9 @@ na criação de algo que será útil e trará muita praticidade ao dia a dia das
 desejo de proporcionar uma melhor experiência digital aos meus parceiros, busco sempre aplicar o que há
 de melhor e mais inovador no desenvolvimento mobile da atualidade, numa constante busca pela perfeição
 profissional.
+
+## Idiomas
+
+***Inglês*** Intemediário
+***Português*** Nativo
+***Espanhol*** Básico
