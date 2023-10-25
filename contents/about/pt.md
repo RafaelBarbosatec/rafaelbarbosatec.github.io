@@ -1,4 +1,4 @@
-# Sobre
+# Um pouco sobre mim
 
 Me chamo Rafael, nasci em Salvador/BA e sou desenvolvedor voltado para o segmento mobile. Iniciei os estudos e prática na área de programação como um hobby
 durante minha graduação em Engenharia da Computação na Devry-Área1. Antes de me graduar como engenheiro,
