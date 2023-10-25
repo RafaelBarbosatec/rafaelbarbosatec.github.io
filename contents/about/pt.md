@@ -5,9 +5,11 @@ durante minha graduação em Engenharia da Computação na Devry-Área1. Antes d
 fui aprovado na Universidade Federal da Bahia para cursar Sistemas de Informação e assim imergir de vez
 no mundo do Software. Atualmente trabalho como Mobile Developer Senior(Android/IOS/Flutter) em São Paulo
 onde já contribuir
-no desenvolvimento de diversos apps disponíveis hoje no mercado. Como um grande apaixonado pelo Flutter,
+no desenvolvimento de diversos apps disponíveis no mercado. 
+
+Como um grande apaixonado pelo Flutter,
 venho desenvolvendo aplicações e disseminando o conhencimento sobre essa tecnologia que vem para
-revolucionar a forma de fazer mobile.
+revolucionar a forma de fazer mobile. Também sou CEO e professor em uma escola de progamação chamada Lovepeople, onde ensinamos programação e desenvolvilmento mobile com Flutter.
 
 
 Dedicação, excelência e inovação são palavras que norteiam minha trajetória profissional, já que busco
