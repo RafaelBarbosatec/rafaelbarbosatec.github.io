@@ -3,7 +3,7 @@
 
 ## Drip (YC S22)
 
-**Cargo:** Flutter Developer
+**Cargo:** Flutter developer
 
 **Carga horaria:** Integral
 
@@ -21,9 +21,19 @@
 
 **Local:** São Paulo, São Paulo, Brasil
 
+## Festpay
+
+**Cargo:** Flutter developer
+
+**Carga horaria:** freelancer
+
+**Período:** -
+
+**Local:** São Paulo, São Paulo, Brasil
+
 ## Conectcar
 
-**Cargo:** Flutter Developer
+**Cargo:** Flutter developer
 
 **Carga horaria:** Integral
 
@@ -33,7 +43,7 @@
 
 ## Genial Investimentos
 
-**Cargo:** Flutter Developer
+**Cargo:** Flutter developer
 
 **Carga horaria:** Integral
 
@@ -43,7 +53,7 @@
 
 ## Superdigital
 
-**Cargo:** Android Developer
+**Cargo:** Android developer
 
 **Carga horaria:** Integral
 
@@ -53,7 +63,7 @@
 
 ## Easynvest
 
-**Cargo:** Android Developer
+**Cargo:** Android developer
 
 **Carga horaria:** Integral
 
@@ -63,7 +73,7 @@
 
 ## Iterative
 
-**Cargo:** Android Developer
+**Cargo:** Android developer
 
 **Carga horaria:** Integral
 
@@ -74,7 +84,7 @@
 
 ## Avansys Tecnologia
 
-**Cargo:** Android Developer
+**Cargo:** Android developer
 
 **Carga horaria:** Integral
 
@@ -85,7 +95,7 @@
 
 ## Navegarte Networks
 
-**Cargo:** Android Developer
+**Cargo:** Android developer
 
 **Carga horaria:** Integral
 
