@@ -1,5 +1,7 @@
 # Flutter packages
 
-# Bonfire [![pub package](https://img.shields.io/pub/v/bonfire.svg)](https://pub.dev/packages/bonfire) ![GitHub stars](https://img.shields.io/github/stars/RafaelBarbosatec/bonfire)
+![](https://raw.githubusercontent.com/RafaelBarbosatec/bonfire/master/media/bonfire.gif)
+# Bonfire 
+> [pub package](https://pub.dev/packages/bonfire) - [doc](https://pub.dev/packages/bonfire](https://bonfire-engine.github.io/#/))
 
 (RPG maker) Create RPG-style or similar games more simply with Flame.
