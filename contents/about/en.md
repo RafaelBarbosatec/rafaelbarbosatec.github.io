@@ -8,7 +8,7 @@ With a big Flutter fan I been developing applications and spreading knowledge ab
 
 ## Occupation
 
-Desenvolvedor mobile sênior (Flutter/Android/IOS)
+Senior Mobile Developer (Flutter/Android/IOS)
 
 ## Academic education
 
