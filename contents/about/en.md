@@ -14,27 +14,27 @@ Senior Mobile Developer (Flutter/Android/IOS)
 
 | course    | institution |
 | -------- | ------- |
-| Engenharia da computação | Devry Area1     | 
-| Sistemas de informação | UFBA     | 
-| Analise e desenvolvimento de sistemas | Estácio     | 
+| Computer engineering | Devry Area1     | 
+| Information systems | UFBA     | 
+| Analysis and systems development | Estácio     | 
 
 ## Languages
 
 | name    | level |
 | -------- | ------- |
-| 🇧🇷 Português | Nativo     |
-| 🇺🇸 Inglês  | Intemediário    |
-| 🇪🇸 Espanhol    | Básico    |
+| 🇧🇷 Portugues | Native     |
+| 🇺🇸 English  | Intermediate    |
+| 🇪🇸 Spanish    | Basic    |
 
 
 ## Programming languages
 
 | name    | level |
 | -------- | ------- |
-| Java | Avançado     |
-| Kotlin  | Avançado    |
-| Dart    | Avançado    |
-| Swift    | Intermediario    |
-| PHP    | Intermediario    |
-| TypeScript    | Intermediario    |
-| C    | Intermediario    |
+| Java | Advanced     |
+| Kotlin  | Advanced    |
+| Dart    | Advanced    |
+| Swift    | Intermediate    |
+| PHP    | Intermediate    |
+| TypeScript    | Intermediate    |
+| C    | Intermediate    |
