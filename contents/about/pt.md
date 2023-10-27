@@ -16,7 +16,7 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
 ## Formação acadêmica
 
-| Curso    | Instituição |
+| curso    | instituição |
 | -------- | ------- |
 | Engenharia da computação | Devry Area1     | 
 | Sistemas de informação | UFBA     | 
@@ -24,7 +24,7 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
 ## Idiomas
 
-| Nome    | Nivel |
+| nome    | nivel |
 | -------- | ------- |
 | 🇧🇷 Português | Nativo     |
 | 🇺🇸 Inglês  | Intemediário    |
@@ -33,7 +33,7 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
 ## Linguagens de programação
 
-| Nome    | Nivel |
+| nome    | nivel |
 | -------- | ------- |
 | Java | Avançado     |
 | Kotlin  | Avançado    |
