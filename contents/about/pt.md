@@ -1,5 +1,7 @@
 # Um pouco sobre mim
 
+![](https://pbs.twimg.com/profile_banners/707935205693194240/1679092595/1500x500)
+
 Me chamo Rafael, sou brasileiro, nasci em Salvador/BA e sou desenvolvedor mobile. Iniciei os estudos e prática na área de programação como um hobby durante minha graduação em Engenharia da Computação na Devry-Área1. Antes de me graduar como engenheiro, fui aprovado na Universidade Federal da Bahia para cursar Sistemas de Informação e assim imergi de vez no mundo do Software. Atualmente trabalho como Mobile Developer Senior(Android/IOS/Flutter) em São Paulo, onde já contribui no desenvolvimento de diversos apps de grande relevância no mercado. 
 
 Como um grande entusiasta do Flutter venho desenvolvendo aplicações e disseminando o conhencimento sobre essa tecnologia que veio para revolucionar a forma de fazer mobile. Também sou CEO e professor na Lovepeople, uma escola de programação e desenvolvilmento mobile com Flutter.
@@ -14,7 +16,7 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
 ## Formação acadêmica
 
-| Curso    | Instituição |
+| curso    | instituição |
 | -------- | ------- |
 | Engenharia da computação | Devry Area1     | 
 | Sistemas de informação | UFBA     | 
@@ -22,7 +24,7 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
 ## Idiomas
 
-| Nome    | Nivel |
+| nome    | nivel |
 | -------- | ------- |
 | 🇧🇷 Português | Nativo     |
 | 🇺🇸 Inglês  | Intemediário    |
@@ -31,7 +33,7 @@ Desenvolvedor mobile sênior (Flutter/Android/IOS)
 
 ## Linguagens de programação
 
-| Nome    | Nivel |
+| nome    | nivel |
 | -------- | ------- |
 | Java | Avançado     |
 | Kotlin  | Avançado    |
