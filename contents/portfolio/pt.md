@@ -6,6 +6,12 @@
 
 A Drip é uma alternativa fácil e inteligente para realizar compras em suas lojas online preferidas. É uma experiência única, segura e livre de juros. Os produtos e as lojas mais amadas, em 3x no Pix e zero juros. É rápido e prático: compre em segundos, sem precisar de um cartão. Se por acaso atrasar algum pagamento, fica tranquilo, não cobramos juros, apenas uma multa fixa.
 
+## Festpay
+
+![](https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/images/fulls/festpay/img.png)
+
+Festpay chegou para facilitar e melhorar a sua experiência nos eventos, realize consumação sem precisar pegar a carteira e com controle total por APP.
+
 ## ConectCar
 
 ![](https://raw.githubusercontent.com/RafaelBarbosatec/rafaelbarbosatec.github.io/master/images/fulls/conectcar/img.png)
