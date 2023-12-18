@@ -85274,7 +85274,7 @@ $S:555}
 A.z_.prototype={
 al(){return new A.SV(B.j)}}
 A.SV.prototype={
-N(a){var s,r,q,p=null,o="https://openchat.team/api/chat",n=A.R(a).ax,m=n.k2
+N(a){var s,r,q,p=null,o="https://cors-anywhere.herokuapp.com/https://openchat.team/api/chat",n=A.R(a).ax,m=n.k2
 n=m==null?n.c:m
 m=A.b([A.a5Q(p,A.y7($.YF().a===B.a_?B.E3:B.E6,p,p,p),new A.alg(),p,p)],t.D)
 s=new A.a_F("openchat_v3.2_mistral","OpenChat Aura",24576,8192)
